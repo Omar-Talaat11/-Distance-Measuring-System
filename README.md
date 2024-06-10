@@ -1,6 +1,5 @@
-# -Distance-Measuring-System
-Mini Project 2
-Implement the following Stop Watch system with the specifications listedbelow:
+# Distance-Measuring-System
+
 1. Use ATmega32 Microcontroller with frequency 1Mhz.
 2. Configure Timer1 in ATmega32 with CTC mode to count the Stop Watch time.
 3. Use six Common Anode 7-segments.
